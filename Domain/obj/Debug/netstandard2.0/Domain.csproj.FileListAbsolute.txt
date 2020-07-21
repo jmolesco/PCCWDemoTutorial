@@ -1,0 +1,18 @@
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\81256687\Documents\Visual Studio 2017\Project\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.pdb
+C:\Users\81256687\Desktop\Test Demo .NET CORE\DemoTutorial\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
